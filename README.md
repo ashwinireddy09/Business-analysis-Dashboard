@@ -54,3 +54,7 @@ a crowdfunding platform like Kickstarter, the objective is to analyze campaign p
    - create pivot table according to the question asked.
    - merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+
+## Dashboard
+![Screenshot 2025-03-04 115647](https://github.com/user-attachments/assets/6678f091-0bfa-4434-82e2-07f64ea957c6)
+
