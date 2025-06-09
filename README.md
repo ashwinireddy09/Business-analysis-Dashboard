@@ -46,7 +46,7 @@ a crowdfunding platform like Kickstarter, the objective is to analyze campaign p
    Percentage of Successful Projects by Year , Month etc..
    Percentage of Successful projects by Goal Range ( decide the range as per your need )
 
-- Dashboard Interaction <a href="https://github.com/ashwinireddy09/Business-analysis-Dashboard/blob/main/Screenshot%202024-12-04%20101025.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/ashwinireddy09/Business-analysis-Dashboard/blob/main/Screenshot%202025-03-04%20115647.png">View Dashboard</a>
 
    ## Process
    - Verify Data for any missing values and anomalies, and sort out the same.
