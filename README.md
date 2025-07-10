@@ -67,6 +67,9 @@ A crowdfunding platform like Kickstarter, the objective is to analyze campaign p
 ## Dashboard
 ![Screenshot 2025-03-04 115647](https://github.com/user-attachments/assets/6678f091-0bfa-4434-82e2-07f64ea957c6)
 
+![Uploading Screenshot 2024-12-04 101025.png…]()
+
+
 
 ## Project Insight
 - Redesign Platform : Incorporate best practices and user feedback to optimize the crowdfunding website's design and functionality.
