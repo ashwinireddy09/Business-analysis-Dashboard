@@ -65,9 +65,14 @@ A crowdfunding platform like Kickstarter, the objective is to analyze campaign p
 
 
 ## Dashboard
+##Excel-Dashboard
 ![Screenshot 2025-03-04 115647](https://github.com/user-attachments/assets/6678f091-0bfa-4434-82e2-07f64ea957c6)
 
-![Uploading Screenshot 2024-12-04 101025.png…]()
+## Power Bi
+<img width="1279" height="702" alt="Screenshot 2024-12-04 101025" src="https://github.com/user-attachments/assets/a7c5f8cf-312b-43cd-bed6-086f14a12cbd" />
+
+
+
 
 
 
